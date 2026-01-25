@@ -8,7 +8,7 @@ const projectData = [
   {
     title: "X-ports",
     description: "X-ports is a dynamic, production-ready web application designed for creating, managing, and participating in diverse creative contests. From design challenges to business ideas, it provides a secure and seamless environment for creators to host competitions and for users to showcase their talents.",
-    image: "/public/x.png", 
+    image: "/x.png", 
     tags: ["React","Node.js", "Express", "MongoDB", "Framer Motion", "Tailwind","Tailwind CSS", "DaisyUI","Firebase Authentication","Role-Based Dashboards"],
     liveLink: "https://fir-template-4b1dd.web.app/",
     githubLink: "https://github.com/nimostic/Xports"
@@ -16,7 +16,7 @@ const projectData = [
   {
     title: "KrishiLink",
     description: "KrishiLink is a modern agricultural social networking platform that redefines how farmers, traders, and consumers interact.",
-    image: "/public/krishi.png",
+    image: "/krishi.png",
     tags: ["React","Node.js", "Express", "MongoDB","Tailwind CSS", "DaisyUI","Firebase Authentication"],
     liveLink: "https://stalwart-kitsune-8da5a7.netlify.app/",
     githubLink: "https://github.com/nimostic/KrishiLink-Client"
@@ -24,7 +24,7 @@ const projectData = [
   {
     title: "ToySqueeze",
     description: "ToySqueeze is a vibrant and playful online marketplace designed to connect families with the best local toy sellers. It creates a digital space where parents can browse high-quality toys, view detailed information, and engage with sellers",
-    image: "/public/toy.png",
+    image: "/toy.png",
     tags: ["React","Tailwind CSS", "DaisyUI","Firebase Authentication"],
     liveLink: "https://toysqueeze-e2756.web.app/",
     githubLink: "https://github.com/nimostic/ToySqueeze"

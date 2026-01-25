@@ -11,7 +11,7 @@ const FloatingCV = () => {
       className="fixed bottom-6 right-6 md:bottom-10 md:right-10 z-100"
     >
       <motion.a
-        href="/public/CV_Developer.pdf"
+        href="/CV_Developer.pdf"
         download="Abu_Nayeem_Riyad_CV.pdf"
         className="flex items-center justify-center gap-3 bg-[#ff6b35] text-white w-14 h-14 md:w-auto md:h-14 md:px-6 rounded-full font-bold shadow-[0_0_20px_rgba(255,107,53,0.4)] hover:bg-orange-600 transition-all group"
         whileHover={{ scale: 1.05 }}
