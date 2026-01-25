@@ -16,7 +16,7 @@ const Navbar = () => {
   const navLinks = [
     { name: "Highlights", href: "#highlights" },
     { name: "Works", href: "#works" },
-    { name: "Linkedin", href: "#linkedin" },
+    { name: "Linkedin", href: "https://linkedin.com/in/abunayeemriyad" },
   ];
 
   return (
