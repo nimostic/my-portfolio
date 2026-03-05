@@ -41,8 +41,8 @@ const Hero = () => {
         >
            {/* Image Responsive Classes */}
            <img 
-            src="/hero.png" 
-            alt="3D Illustration" 
+            src="/herox.png" 
+            alt="profile pic" 
             className="w-[80%] md:w-[90%] lg:w-full max-w-[320px] md:max-w-112.5 lg:max-w-137.5 h-auto object-contain z-10 relative" 
            />
            

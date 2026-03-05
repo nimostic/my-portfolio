@@ -10,7 +10,7 @@ const projectData = [
     description: "X-ports is a dynamic, production-ready web application designed for creating, managing, and participating in diverse creative contests. From design challenges to business ideas, it provides a secure and seamless environment for creators to host competitions and for users to showcase their talents.",
     image: "/x.png", 
     tags: ["React","Node.js", "Express", "MongoDB", "Framer Motion", "Tailwind","Tailwind CSS", "DaisyUI","Firebase Authentication","Role-Based Dashboards"],
-    liveLink: "https://fir-template-4b1dd.web.app/",
+    liveLink: "https://xports-jet.vercel.app",
     githubLink: "https://github.com/nimostic/Xports"
   },
   {
